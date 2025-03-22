@@ -8,10 +8,10 @@ export const NAV__ITEMS = [
     isDropDown: true,
     name: "About Team",
     dropDownItems: [
-      { name: "About Us", path: "/about-us" },
-      { name: "Group Photo", path: "/vision-mission" },
-      { name: "Testimonial", path: "/principal-message" },
-      { name: "Why Choose Us", path: "/why-choose-us" },
+      { name: "About Us", path: "#" },
+      { name: "Group Photo", path: "#" },
+      { name: "Testimonial", path: "#" },
+      { name: "Why Choose Us", path: "#" },
     ],
   },
   

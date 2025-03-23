@@ -8,8 +8,8 @@ const LogoAndInfo = () => {
       <div className="flex justify-between max-w-screen-xl items-center mx-auto w-full">
         <Link href={'/'}>
           <Image
-            src={"/logo.webp"}
-            alt="Markham college of commerce"
+            src={"/xyz.png"}
+            alt="AEMSLOGO"
             width={400}
             height={119}
           />

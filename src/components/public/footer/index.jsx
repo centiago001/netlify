@@ -12,8 +12,8 @@ const Footer = () => {
         <div className="col-span-3">
           <Image
             className="max-w-full invert self-center mx-auto"
-            src={"/logo.webp"}
-            alt="Markham college of commerce logo"
+            src={"/xyz.png"}
+            alt="aemslogo"
             height={150}
             width={300}
           />

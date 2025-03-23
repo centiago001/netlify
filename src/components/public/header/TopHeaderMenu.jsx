@@ -15,7 +15,7 @@ const TopHeaderMenu = () => {
             src={"/xyz.png"}
             height={45}
             width={150}
-            alt="Markham College of commerce"
+            alt="aems"
           />
         </Link>
         <div className="hidden md:block" >
